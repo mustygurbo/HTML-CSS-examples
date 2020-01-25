@@ -1,24 +1,47 @@
 body{
-    background-color: rgba(221, 164, 7, 0.678);
-    padding: 5px;
+    margin: 0px;
 }
 
 .header{
-    width: auto;
-    padding: 25px;
-    margin-bottom: 10px;
-    text-align: center;
-    background-color: black;
-    color: brown;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 36px;    
+    background-color: darkblue;
+    color: whitesmoke;
+    height: 104px;
+    padding: 0px;
+    margin: 0px;  
+}
+
+#hleft{
+    width: 200px;
+    float: left;
+    margin-left: 10px;
+    padding: 0px;
+    text-align: left;
+}
+
+#hright{
+    width: 500px;
+    float: right;
+    margin: 10px;
+    padding: 0px;
+    text-align: right;
 }
 
 .container{
-    width: auto;
-    padding: 50px;
-    background-color: black;
-    color: blanchedalmond;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 16px;
+    margin: 0px;
+}
+
+#cleft{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#cright{
+    width: 400px;
+    float: right;
+    margin: 10px;
+    padding: 0px;
+    text-align: center;
 }
