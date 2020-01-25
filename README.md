@@ -1,1 +1,1 @@
-# HTML-CSS-examples
+# HTML/CSS example projects
